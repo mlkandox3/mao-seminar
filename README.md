@@ -8,6 +8,8 @@ https://elmas3.github.io/mao-seminar/
 2
 3
 
+fetch
+
 # ディレクトリ構成
 ```
 seminar/
